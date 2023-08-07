@@ -1,0 +1,11 @@
+@import "../css/nullstyle.css";
+@import "../css/fonts.css";
+
+
+body{
+	background: #1E252B;
+	color: rgba(255, 255, 255, 0.90);
+	font-family: 'Open Sans', sans-serif;
+	max-width: 1440px;
+	padding: 0 15px ;
+}
